@@ -1,6 +1,6 @@
 # Analysis of British Airways Customer Reviews
 
-Here are the CSV files for this project containing British Airways Review (ba_reviews.czv) and Country mapping (Countries.csv) data, and the final interactive Tableau Dashboard.
+Here are the CSV files for this project containing British Airways Review (ba_reviews.csv) and Country mapping (Countries.csv) data, and the final interactive Tableau Dashboard.
 
 To view the project write-up, check it out **[here](https://www.linkedin.com/pulse/hospital-patient-waitlist-analysis-power-bi-sarah-rajani-ctp-4i0wc)**.
 
